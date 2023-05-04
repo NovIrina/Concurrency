@@ -87,7 +87,7 @@ Software solution is built on top of three components:
 
 Order of handing over:
 
-1. Lab work is accepted for oral presentation.
+1. Lab work is accepted for oral presentation .
 2. A student has explained the work of the program and showed it in action.
 3. A student has completed the min-task from a mentor that requires some slight code modifications.
 4. A student receives a mark:
