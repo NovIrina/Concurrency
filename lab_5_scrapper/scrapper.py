@@ -5,7 +5,7 @@ Crawler implementation
 from typing import Pattern, Union
 
 
-# check 4
+# check
 class Config:
     """
     Unpacks and validates configurations
